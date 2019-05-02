@@ -16,7 +16,7 @@
     Copyright = '(c) 2016 Microsoft. All rights reserved.'
     
     # Modules to import when applied to a session
-    # ModulesToImport = 'MyCustomModule', @{ ModuleName = 'MyCustomModule'; ModuleVersion = '1.0.0.0'; GUID = '4d30d5f0-cb16-4898-812d-f20a6c596bdf' }
+     ModulesToImport = 'WebAdministration'
     
     # Aliases to make visible when applied to a session
     # VisibleAliases = 'Item1', 'Item2'
