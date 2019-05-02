@@ -42,8 +42,6 @@
  ```
 
 
-Remember, it's the first thing a visitor will see.
-
 # Project Setup Instructions
 ## Working with the layout
 
