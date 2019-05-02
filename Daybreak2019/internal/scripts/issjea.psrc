@@ -22,15 +22,15 @@
     # VisibleAliases = 'Item1', 'Item2'
     
     # Cmdlets to make visible when applied to a session
-    VisibleCmdlets = 'WebAdministration\Get-*',
-                 'Start-WebAppPool',
-                 'Restart-WebAppPool',
-                 'Stop-Website',
-                 'Start-Website',
-                 'Get-IISSite',
-                 'Start-IISSite',
-                 'Stop-IISSite',
-                 'Get-IISAppPool'
+    VisibleCmdlets = 'WebAdministration\*',
+                    'Start-WebAppPool',
+                    'Restart-WebAppPool',
+                    'Stop-Website',
+                    'Start-Website',
+                    'Get-IISSite',
+                    'Start-IISSite',
+                    'Stop-IISSite',
+                    'Get-IISAppPool'
     
     # Functions to make visible when applied to a session
     # VisibleFunctions = 'Invoke-Function1', @{ Name = 'Invoke-Function2'; Parameters = @{ Name = 'Parameter1'; ValidateSet = 'Item1', 'Item2' }, @{ Name = 'Parameter2'; ValidatePattern = 'L*' } }
