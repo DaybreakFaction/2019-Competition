@@ -38,8 +38,8 @@
     # External commands (scripts and applications) to make visible when applied to a session
     # VisibleExternalCommands = 'Item1', 'Item2'
     
-    # Providers to make visible when applied to a session
-    # VisibleProviders = 'Item1', 'Item2'
+    # Providers to make visible when applied sto a session
+     VisibleProviders = 'Variable', 'WebAdministration'
     
     # Scripts to run when applied to a session
     # ScriptsToProcess = 'C:\ConfigData\InitScript1.ps1', 'C:\ConfigData\InitScript2.ps1'
