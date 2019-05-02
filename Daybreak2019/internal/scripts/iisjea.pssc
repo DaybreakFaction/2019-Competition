@@ -1,0 +1,12 @@
+<#
+Restrict role to AD Group JEA_IISAdmins to configuration issjea.psrc
+#>
+@{
+        SchemaVersion = '2.0.0.0'
+        GUID = '458de2ec-1e1d-4701-b7a1-d6766b3069ca'
+        Author = 'DayBreak2019'
+        SessionType = 'RestrictedRemoteServer'
+        TranscriptDirectory = 'C:\Transcript'
+        RunasVirtualAccount = $true
+        RoleDefinition = @{'JEA_IISAdmins' = @{RoleCapabilities = 'iisjea'}}
+}
