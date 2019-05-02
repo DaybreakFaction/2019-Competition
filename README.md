@@ -1,12 +1,11 @@
 ﻿# Daybreak Faction 2019's solution to the Iron Scripter 2019 competition
 
-# 
    ```
-   +------------------------------------------------+
-   | D A Y B R E A K                                |
-   | ---------------                                |
-   | A  N E W   L I G H T   F R O M   S C R I P T ! |
-   +------------------------------------------------+
+                  +------------------------------------------------+
+                  | D A Y B R E A K                                |
+                  | ---------------                                |
+                  | A  N E W   L I G H T   F R O M   S C R I P T ! |
+                  +------------------------------------------------+
 
  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxollld0WMMMMMMMMMMMMMMMMMMMMMMMMMM
