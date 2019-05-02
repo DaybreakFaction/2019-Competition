@@ -1,4 +1,4 @@
-﻿# Description
+﻿# Daybreak Faction 2019's solution to the Iron Scripter 2019 competition
 
 Insert a useful description for the Daybreak2019 project here.
 
