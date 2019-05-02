@@ -1,0 +1,22 @@
+﻿
+# ignore the settings folder and files for VSCode and PSS
+.vscode/*
+*.psproj
+*TempPoint*
+
+# Ignore staging info from Visual Studio
+library/Daybreak2019/.vs/*
+library/Daybreak2019/Daybreak2019/bin/*
+library/Daybreak2019/Daybreak2019/obj/*
+
+# ignore PowerShell Studio MetaData
+Daybreak2019/Daybreak2019.psproj
+Daybreak2019/Daybreak2019.psproj.bak
+Daybreak2019/Daybreak2019.psprojs
+Daybreak2019/Daybreak2019.psproj
+
+# ignore the TestResults
+TestResults/*
+
+# ignore the publishing Directory
+publish/*

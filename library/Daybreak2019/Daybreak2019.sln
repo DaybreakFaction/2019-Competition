@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{EBE9917F-E4F5-4891-B732-4E3B825C7DD1}") = "Daybreak2019", "Daybreak2019\Daybreak2019.csproj", "{4C906B94-77B6-4213-A0A1-EBDA46D76427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C906B94-77B6-4213-A0A1-EBDA46D76427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C906B94-77B6-4213-A0A1-EBDA46D76427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C906B94-77B6-4213-A0A1-EBDA46D76427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C906B94-77B6-4213-A0A1-EBDA46D76427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1217C41A-ADFC-4928-B297-2A29E22FA36F}
+	EndGlobalSection
+EndGlobal
